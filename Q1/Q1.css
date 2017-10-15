@@ -1,0 +1,80 @@
+.body{
+   
+      height: 385px;
+      width: 435px;
+      border-style: solid;
+      border-width: 2px;
+      border-radius: 1px;
+      padding: 5%
+    }
+
+    .screen{
+
+      font-size: 400%;
+      text-align: right;
+      margin: 12px; 
+      height: 70px;
+      width: 400px;
+      border-style: inset;
+      border-width: 2px;
+      border-radius: 5px;
+      
+    
+    }
+
+    .row1{
+
+      display: flex;
+      height: 35px;
+      width: 400px;
+      margin-left: 20px;
+      margin-right: 20px ;
+
+    }
+    .row2{
+
+      display: flex;
+      margin: 20px; 
+      height: 35px;
+      width: 400px;
+
+    }
+    .row3{
+
+      display: flex;
+       
+      height: 35px;
+      width: 400px;
+      margin-left: 20px;
+      margin-right: 20px ;
+
+    }
+    .row4{
+
+      display: flex;
+      margin: 20px; 
+      height: 35px;
+      width: 400px;
+
+
+    }
+    .row5{
+
+      display: flex;
+      margin: 21px; 
+      width: 400px; 
+
+    }
+
+    .button{
+
+      text-align: center;
+      height: 50px;
+      width: 290px;
+      border-radius: 5px;
+     
+    }
+
+
+
+
